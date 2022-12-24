@@ -1,0 +1,2 @@
+C:\users cd  \NameProjects\\ParallelMPI\Debug
+C:\users\NameProjects\\ParallelMPI\Debug mpiexe ParallelMPI

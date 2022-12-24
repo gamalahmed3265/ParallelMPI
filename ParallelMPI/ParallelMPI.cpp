@@ -3,5 +3,8 @@
 #include <mpi.h>
 int main()
 {
-   printf("Hello World!\n");
+	MPI_Init(NULL,NULL);
+	printf("Hello World!\n");
+	MPI_Finalize();
+	return 0;
 }
